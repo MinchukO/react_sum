@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,GACE,iBAAkB,CACnB,KAGC,uBAAwB,CACzB,KAGC,cAAe,CACf,iBAAkB,CAClB,YAAa","file":"main.a4a9835c.chunk.css","sourcesContent":["// styles go here\nh1 {\n  text-align: center;\n}\n\n.app {\n  background-color: orange;\n}\n\n.sum {\n  font-size: 36px;\n  text-align: center;\n  padding: 10px;\n}\n"]}
